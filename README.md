@@ -1,1 +1,3 @@
-# thai-id-reader
+# Thai ID Reader
+
+See README content...
